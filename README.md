@@ -8,7 +8,7 @@
 
 ### Core Innovation
 - **Verifiable Outcomes**: Uses 0G Compute oracles to verify market resolution with cryptographic proofs
-- **0G Storage Integration**: All resolution proofs stored on 0G Storage for transparency
+- **0G Storage Integration**: All resolution proofs stored on 0G Storage for transparency.
 - **Real Utility**: Prediction markets have **$100M+ annual volume** on traditional platforms
 - **Perfect 0G Showcase**: Uses 0G Chain, 0G Storage, and 0G Compute together
 
